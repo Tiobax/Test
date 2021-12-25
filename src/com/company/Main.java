@@ -26,4 +26,8 @@ public class Main {
         });
         System.out.println(str);
     }
+
+    public static void dd() {
+
+    }
 }
